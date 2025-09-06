@@ -1,0 +1,15 @@
+C:\DEPI\Linq\Day02\Linq_Done_Assingment_Day_02\Task2Solution\Task2\obj\Debug\net5.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEPI\Linq\Day02\Linq_Done_Assingment_Day_02\Task2Solution\Task2\obj\Debug\net5.0\Task2.AssemblyInfoInputs.cache
+C:\DEPI\Linq\Day02\Linq_Done_Assingment_Day_02\Task2Solution\Task2\obj\Debug\net5.0\Task2.AssemblyInfo.cs
+C:\DEPI\Linq\Day02\Linq_Done_Assingment_Day_02\Task2Solution\Task2\obj\Debug\net5.0\Task2.csproj.CoreCompileInputs.cache
+C:\DEPI\Linq\Day02\Linq_Done_Assingment_Day_02\Task2Solution\Task2\bin\Debug\net5.0\Task2.exe
+C:\DEPI\Linq\Day02\Linq_Done_Assingment_Day_02\Task2Solution\Task2\bin\Debug\net5.0\Task2.deps.json
+C:\DEPI\Linq\Day02\Linq_Done_Assingment_Day_02\Task2Solution\Task2\bin\Debug\net5.0\Task2.runtimeconfig.json
+C:\DEPI\Linq\Day02\Linq_Done_Assingment_Day_02\Task2Solution\Task2\bin\Debug\net5.0\Task2.runtimeconfig.dev.json
+C:\DEPI\Linq\Day02\Linq_Done_Assingment_Day_02\Task2Solution\Task2\bin\Debug\net5.0\Task2.dll
+C:\DEPI\Linq\Day02\Linq_Done_Assingment_Day_02\Task2Solution\Task2\bin\Debug\net5.0\Task2.pdb
+C:\DEPI\Linq\Day02\Linq_Done_Assingment_Day_02\Task2Solution\Task2\obj\Debug\net5.0\Task2.dll
+C:\DEPI\Linq\Day02\Linq_Done_Assingment_Day_02\Task2Solution\Task2\obj\Debug\net5.0\refint\Task2.dll
+C:\DEPI\Linq\Day02\Linq_Done_Assingment_Day_02\Task2Solution\Task2\obj\Debug\net5.0\Task2.pdb
+C:\DEPI\Linq\Day02\Linq_Done_Assingment_Day_02\Task2Solution\Task2\obj\Debug\net5.0\Task2.genruntimeconfig.cache
+C:\DEPI\Linq\Day02\Linq_Done_Assingment_Day_02\Task2Solution\Task2\obj\Debug\net5.0\ref\Task2.dll
