@@ -1,0 +1,15 @@
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Library System\bin\Debug\net5.0\Library System.deps.json
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Library System\bin\Debug\net5.0\Library System.runtimeconfig.json
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Library System\bin\Debug\net5.0\Library System.runtimeconfig.dev.json
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Library System\bin\Debug\net5.0\Library System.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Library System\bin\Debug\net5.0\Library System.pdb
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Library System\obj\Debug\net5.0\Library System.csproj.AssemblyReference.cache
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Library System\obj\Debug\net5.0\Library System.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Library System\obj\Debug\net5.0\Library System.AssemblyInfoInputs.cache
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Library System\obj\Debug\net5.0\Library System.AssemblyInfo.cs
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Library System\obj\Debug\net5.0\Library System.csproj.CoreCompileInputs.cache
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Library System\obj\Debug\net5.0\Library System.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Library System\obj\Debug\net5.0\refint\Library System.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Library System\obj\Debug\net5.0\Library System.pdb
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Library System\obj\Debug\net5.0\Library System.genruntimeconfig.cache
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Library System\obj\Debug\net5.0\ref\Library System.dll

@@ -1,0 +1,71 @@
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Task04.exe
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Task04.deps.json
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Task04.runtimeconfig.json
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Task04.runtimeconfig.dev.json
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Task04.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Task04.pdb
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\E-commerce System.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Health Care System.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Library System.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\E-commerce System.pdb
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Health Care System.pdb
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Library System.pdb
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\obj\Debug\net5.0\Task04.csproj.AssemblyReference.cache
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\obj\Debug\net5.0\Task04.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\obj\Debug\net5.0\Task04.AssemblyInfoInputs.cache
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\obj\Debug\net5.0\Task04.AssemblyInfo.cs
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\obj\Debug\net5.0\Task04.csproj.CoreCompileInputs.cache
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\obj\Debug\net5.0\Task04.csproj.Up2Date
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\obj\Debug\net5.0\Task04.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\obj\Debug\net5.0\refint\Task04.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\obj\Debug\net5.0\Task04.pdb
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\obj\Debug\net5.0\Task04.genruntimeconfig.cache
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\obj\Debug\net5.0\ref\Task04.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Humanizer.dll
+C:\DEPI\Linq\Day04\Linq_Done_Assingment_Day_04\Task04Solution\Task04\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll

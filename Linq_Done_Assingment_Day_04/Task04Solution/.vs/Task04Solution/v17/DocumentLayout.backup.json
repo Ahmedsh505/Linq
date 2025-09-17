@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DEPI\\Linq\\Day04\\Linq_Done_Assingment_Day_04\\Task04Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1A0F8A-3170-4DC3-910F-C5F7EC760A6B}|Task04\\Task04.csproj|c:\\depi\\linq\\day04\\linq_done_assingment_day_04\\task04solution\\task04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1A0F8A-3170-4DC3-910F-C5F7EC760A6B}|Task04\\Task04.csproj|solutionrelative:task04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A612CB0-0388-4994-AB1B-FBC701BADEDD}|Health Care System\\Health Care System.csproj|c:\\depi\\linq\\day04\\linq_done_assingment_day_04\\task04solution\\health care system\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A612CB0-0388-4994-AB1B-FBC701BADEDD}|Health Care System\\Health Care System.csproj|solutionrelative:health care system\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB765C7E-DF20-4B76-BAAC-019D9FEEB95E}|E-commerce System\\E-commerce System.csproj|c:\\depi\\linq\\day04\\linq_done_assingment_day_04\\task04solution\\e-commerce system\\dbcontext\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB765C7E-DF20-4B76-BAAC-019D9FEEB95E}|E-commerce System\\E-commerce System.csproj|solutionrelative:e-commerce system\\dbcontext\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A612CB0-0388-4994-AB1B-FBC701BADEDD}|Health Care System\\Health Care System.csproj|c:\\depi\\linq\\day04\\linq_done_assingment_day_04\\task04solution\\health care system\\dbcontext\\healthcarecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A612CB0-0388-4994-AB1B-FBC701BADEDD}|Health Care System\\Health Care System.csproj|solutionrelative:health care system\\dbcontext\\healthcarecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D28F664-4597-442A-81D7-E9183C644074}|Library System\\Library System.csproj|c:\\depi\\linq\\day04\\linq_done_assingment_day_04\\task04solution\\library system\\dbcontext\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D28F664-4597-442A-81D7-E9183C644074}|Library System\\Library System.csproj|solutionrelative:library system\\dbcontext\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\DEPI\\Linq\\Day04\\Linq_Done_Assingment_Day_04\\Task04Solution\\Health Care System\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Health Care System\\Models\\Patient.cs",
+              "ToolTip": "C:\\DEPI\\Linq\\Day04\\Linq_Done_Assingment_Day_04\\Task04Solution\\Health Care System\\Models\\Patient.cs",
+              "RelativeToolTip": "Health Care System\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:42:51.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HealthCareContext.cs",
+              "DocumentMoniker": "C:\\DEPI\\Linq\\Day04\\Linq_Done_Assingment_Day_04\\Task04Solution\\Health Care System\\DbContext\\HealthCareContext.cs",
+              "RelativeDocumentMoniker": "Health Care System\\DbContext\\HealthCareContext.cs",
+              "ToolTip": "C:\\DEPI\\Linq\\Day04\\Linq_Done_Assingment_Day_04\\Task04Solution\\Health Care System\\DbContext\\HealthCareContext.cs",
+              "RelativeToolTip": "Health Care System\\DbContext\\HealthCareContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:37:23.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\DEPI\\Linq\\Day04\\Linq_Done_Assingment_Day_04\\Task04Solution\\Library System\\DbContext\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "Library System\\DbContext\\LibraryContext.cs",
+              "ToolTip": "C:\\DEPI\\Linq\\Day04\\Linq_Done_Assingment_Day_04\\Task04Solution\\Library System\\DbContext\\LibraryContext.cs",
+              "RelativeToolTip": "Library System\\DbContext\\LibraryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:36:52.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ECommerceContext.cs",
+              "DocumentMoniker": "C:\\DEPI\\Linq\\Day04\\Linq_Done_Assingment_Day_04\\Task04Solution\\E-commerce System\\DbContext\\ECommerceContext.cs",
+              "RelativeDocumentMoniker": "E-commerce System\\DbContext\\ECommerceContext.cs",
+              "ToolTip": "C:\\DEPI\\Linq\\Day04\\Linq_Done_Assingment_Day_04\\Task04Solution\\E-commerce System\\DbContext\\ECommerceContext.cs",
+              "RelativeToolTip": "E-commerce System\\DbContext\\ECommerceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:36:00.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DEPI\\Linq\\Day04\\Linq_Done_Assingment_Day_04\\Task04Solution\\Task04\\Program.cs",
+              "RelativeDocumentMoniker": "Task04\\Program.cs",
+              "ToolTip": "C:\\DEPI\\Linq\\Day04\\Linq_Done_Assingment_Day_04\\Task04Solution\\Task04\\Program.cs",
+              "RelativeToolTip": "Task04\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwFEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:13:24.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
